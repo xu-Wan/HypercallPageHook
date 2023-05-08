@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HypercallPageHook", "projects\HypercallPageHook\HypercallPageHook.vcxproj", "{86AE2793-77E5-4FA3-9BE6-E38F8B3C4622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86AE2793-77E5-4FA3-9BE6-E38F8B3C4622}.Debug|x64.ActiveCfg = Debug|x64
+		{86AE2793-77E5-4FA3-9BE6-E38F8B3C4622}.Debug|x64.Build.0 = Debug|x64
+		{86AE2793-77E5-4FA3-9BE6-E38F8B3C4622}.Debug|x64.Deploy.0 = Debug|x64
+		{86AE2793-77E5-4FA3-9BE6-E38F8B3C4622}.Release|x64.ActiveCfg = Release|x64
+		{86AE2793-77E5-4FA3-9BE6-E38F8B3C4622}.Release|x64.Build.0 = Release|x64
+		{86AE2793-77E5-4FA3-9BE6-E38F8B3C4622}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5D7216D-3A03-4A28-89E0-4803862FA069}
+	EndGlobalSection
+EndGlobal
